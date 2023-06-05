@@ -1,0 +1,103 @@
+{
+    "ingre": [
+        {
+            "id": "85",
+            "category": "58",
+            "menu_id": "312",
+            "is_active": "1",
+            "branch_id": "1",
+            "category_type": "Restaurant",
+            "item_name": "test2",
+            "type": "0",
+            "price": "0"
+        }
+    ],
+    "variant": [
+        {
+            "vhid": "1",
+            "heading": "Prepration Type",
+            "status": "1",
+            "data": [
+                {
+                    "id": "22",
+                    "variant_name": "Prepration 1 (10)",
+                    "price": "10",
+                    "variant_head": "1",
+                    "variant_head_name": "Prepration Type",
+                    "category": "58",
+                    "menu_id": "312",
+                    "branch_id": "1",
+                    "type": "1",
+                    "selection": "0",
+                    "status": "1"
+                },
+                {
+                    "id": "23",
+                    "variant_name": "Prepration 2 (20)",
+                    "price": "20",
+                    "variant_head": "1",
+                    "variant_head_name": "Prepration Type",
+                    "category": "58",
+                    "menu_id": "312",
+                    "branch_id": "1",
+                    "type": "1",
+                    "selection": "1",
+                    "status": "1"
+                },
+                {
+                    "id": "26",
+                    "variant_name": "Prepration F",
+                    "price": "0",
+                    "variant_head": "1",
+                    "variant_head_name": "Prepration Type",
+                    "category": "58",
+                    "menu_id": "312",
+                    "branch_id": "1",
+                    "type": "0",
+                    "selection": "0",
+                    "status": "1"
+                }
+            ]
+        },
+        {
+            "vhid": "2",
+            "heading": "Size",
+            "status": "0",
+            "data": [
+                {
+                    "id": "24",
+                    "variant_name": "test 10",
+                    "price": "10",
+                    "variant_head": "2",
+                    "variant_head_name": "Size",
+                    "category": "58",
+                    "menu_id": "312",
+                    "branch_id": "1",
+                    "type": "1",
+                    "selection": "0",
+                    "status": "0"
+                },
+                {
+                    "id": "25",
+                    "variant_name": "test F",
+                    "price": "0",
+                    "variant_head": "2",
+                    "variant_head_name": "Size",
+                    "category": "58",
+                    "menu_id": "312",
+                    "branch_id": "1",
+                    "type": "0",
+                    "selection": "0",
+                    "status": "0"
+                }
+            ]
+        }
+    ],
+    "arrayvariant": [
+        {
+            "id": "23",
+            "name": "Prepration 2 (20)",
+            "price": "20"
+        }
+    ]
+}

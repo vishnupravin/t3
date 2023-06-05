@@ -1,0 +1,3 @@
+CREATE TABLE if not EXISTS details (id INTEGER PRIMARY KEY AUTOINCREMENT, item_id TEXT, category TEXT, item_name TEXT, price TEXT, qty TEXT, image TEXT, wholecat TEXT, addons_id TEXT, addonsName TEXT, addons_price TEXT, variant_id TEXT, variantName TEXT, variant_price TEXT, radioid TEXT, radioprice TEXT, varid TEXT, varprice TEXT, total TEXT, remarks TEXT, type TEXT, freeid TEXT, free_item_data TEXT);
+
+create table if not exists free (id INTEGER PRIMARY KEY AUTOINCREMENT , item_name TEXT, item_id TEXT, free_for_id TEXT, free_for_name TEXT, max_free_qty TEXT, min_item_qty TEXT, notes TEXT, qty TEXT, freeid TEXT, adding_by TEXT);

@@ -1,0 +1,121 @@
+{
+    "status": [
+        {
+            "amount": "500",
+            "status": "1",
+            "status_name": "max_delivery_charge"
+        },
+        {
+            "min_amount": "0",
+            "status_name": "min_amount"
+        },
+        {
+            "tax": "0",
+            "status_name": "tax"
+        },
+        {
+            "status_id": "12",
+            "status_name": "home_delivery",
+            "status": "1",
+            "bid": "2",
+            "is_deleted": "1",
+            "sort": "0"
+        },
+        {
+            "status_id": "13",
+            "status_name": "self_pickup",
+            "status": "1",
+            "bid": "2",
+            "is_deleted": "1",
+            "sort": "0"
+        },
+        {
+            "status_id": "14",
+            "status_name": "home_delivery(meat)",
+            "status": "0",
+            "bid": "2",
+            "is_deleted": "1",
+            "sort": "0"
+        },
+        {
+            "status_id": "15",
+            "status_name": "onlinpayment",
+            "status": "1",
+            "bid": "2",
+            "is_deleted": "1",
+            "sort": "0"
+        },
+        {
+            "status_id": "16",
+            "status_name": "cashon_1",
+            "status": "0",
+            "bid": "2",
+            "is_deleted": "1",
+            "sort": "0"
+        },
+        {
+            "status_id": "17",
+            "status_name": "restwhole",
+            "status": "1",
+            "bid": "2",
+            "is_deleted": "1",
+            "sort": "0"
+        },
+        {
+            "status_id": "18",
+            "status_name": "meatwhole",
+            "status": "1",
+            "bid": "2",
+            "is_deleted": "1",
+            "sort": "0"
+        },
+        {
+            "status_id": "19",
+            "status_name": "tips",
+            "status": "0",
+            "bid": "2",
+            "is_deleted": "1",
+            "sort": "0"
+        },
+        {
+            "status_id": "20",
+            "status_name": "notes",
+            "status": "1",
+            "bid": "2",
+            "is_deleted": "1",
+            "sort": "0"
+        },
+        {
+            "status_id": "41",
+            "status_name": "deliveryboyassign",
+            "status": "1",
+            "bid": "All",
+            "is_deleted": "0",
+            "sort": "1"
+        },
+        {
+            "status_id": "42",
+            "status_name": "razorpay",
+            "status": "0",
+            "bid": "2",
+            "is_deleted": "0",
+            "sort": "9"
+        },
+        {
+            "status_id": "43",
+            "status_name": "cashfree",
+            "status": "1",
+            "bid": "2",
+            "is_deleted": "0",
+            "sort": "11"
+        },
+        {
+            "status_id": "44",
+            "status_name": "paytm",
+            "status": "0",
+            "bid": "2",
+            "is_deleted": "0",
+            "sort": "10"
+        }
+    ]
+}

@@ -1,0 +1,223 @@
+{
+  "project_info": {
+    "project_number": "800291988477",
+    "firebase_url": "https://firenotify-ae36e.firebaseio.com",
+    "project_id": "firenotify-ae36e",
+    "storage_bucket": "firenotify-ae36e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:800291988477:android:0151149f80170100c4af94",
+        "android_client_info": {
+          "package_name": "com.falconsquare.kili"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "800291988477-bt44vs0n9kig5lm2b13d8lg9m44lign5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.falconsquare.kili",
+            "certificate_hash": "5c9c840f40e43a7ca13275e02e8de8da461261e4"
+          }
+        },
+        {
+          "client_id": "800291988477-ov342876055u9g26cd8vu1hferu9csq6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZW3igYASBFgFbGjUvO-9xSRUt6NTc6Gk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "800291988477-ov342876055u9g26cd8vu1hferu9csq6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "800291988477-53e6909mimguiudhss72kclrp1kkgka4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.fs.thiyagu"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:800291988477:android:3cac2a70540312aec4af94",
+        "android_client_info": {
+          "package_name": "com.falconsquare.mypracto"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "800291988477-38g1dosc053oonatn11e63hvgp10alrc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.falconsquare.mypracto",
+            "certificate_hash": "0790f28f3238660a0708462555f2e5a643b8b5e2"
+          }
+        },
+        {
+          "client_id": "800291988477-u96ute0rtpak6867kudu4d4flrosg8pt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.falconsquare.mypracto",
+            "certificate_hash": "5c9c840f40e43a7ca13275e02e8de8da461261e4"
+          }
+        },
+        {
+          "client_id": "800291988477-ov342876055u9g26cd8vu1hferu9csq6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZW3igYASBFgFbGjUvO-9xSRUt6NTc6Gk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "800291988477-ov342876055u9g26cd8vu1hferu9csq6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "800291988477-53e6909mimguiudhss72kclrp1kkgka4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.fs.thiyagu"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:800291988477:android:c6e111fa2475a78ec4af94",
+        "android_client_info": {
+          "package_name": "com.falconsquare.practodeliveryboy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "800291988477-ov342876055u9g26cd8vu1hferu9csq6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZW3igYASBFgFbGjUvO-9xSRUt6NTc6Gk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "800291988477-ov342876055u9g26cd8vu1hferu9csq6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "800291988477-53e6909mimguiudhss72kclrp1kkgka4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.fs.thiyagu"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:800291988477:android:deab3073e1179756c4af94",
+        "android_client_info": {
+          "package_name": "com.falconsquare.realfresh"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "800291988477-m4f5obksi79bg15jr9urn46c9ui3r3dv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.falconsquare.realfresh",
+            "certificate_hash": "5c9c840f40e43a7ca13275e02e8de8da461261e4"
+          }
+        },
+        {
+          "client_id": "800291988477-ov342876055u9g26cd8vu1hferu9csq6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZW3igYASBFgFbGjUvO-9xSRUt6NTc6Gk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "800291988477-ov342876055u9g26cd8vu1hferu9csq6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "800291988477-53e6909mimguiudhss72kclrp1kkgka4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.fs.thiyagu"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:800291988477:android:2559d04dc7496c27c4af94",
+        "android_client_info": {
+          "package_name": "com.fs.thiyagu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "800291988477-ov342876055u9g26cd8vu1hferu9csq6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZW3igYASBFgFbGjUvO-9xSRUt6NTc6Gk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "800291988477-ov342876055u9g26cd8vu1hferu9csq6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "800291988477-53e6909mimguiudhss72kclrp1kkgka4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.fs.thiyagu"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

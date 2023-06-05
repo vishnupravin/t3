@@ -1,0 +1,28 @@
+{
+    "cashOnDeliver": {
+        "success": "Success",
+        "order_details": "your order succefully submited",
+        "order_id": 134
+    },
+    "onlinePaymentRes": {
+        "razor": {
+            "success": "Success",
+            "order_details": "your order succefully submited",
+            "order_id": 135,
+            "orderIdRes": {
+                "oid": "order_LZyT05nBYcxrfR",
+                "success": "1"
+            }
+        },
+        "cashFree": {
+            "success": "Success",
+            "order_details": "your order succefully submited",
+            "order_id": 136,
+            "orderIdRes": {
+                "cftoken": "nP9JCN4MzUIJiOicGbhJCLiQ1VKJiOiAXe0Jye.FTQfiE2YmZWOzEjNmNmM0YjI6ICdsF2cfJCL5cDN4YjNwgjNxojIwhXZiwiIS5USiojI5NmblJnc1NkclRmcvJCLiQTNxIiOiQnb19WbBJXZkJ3biwiIxYTMiojIklkclRmcvJye.rM9TAHgu-mRJnHLgCkfAjXAlqArSPgNaHx76l2FctveUF-2uFprRNxTEQ7dwUwtFAh",
+                "message": "Token generated",
+                "status": "OK 1827"
+            }
+        }
+    }
+}
